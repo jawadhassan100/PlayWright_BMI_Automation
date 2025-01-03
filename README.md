@@ -5,3 +5,6 @@
 > Input the weight and height<br>
 > Click on calculate and also console the bmi in app<br>
 > Finally close the chrome <br>
+## Technologies 
+1 JavaScript <br>
+2 playWright 
